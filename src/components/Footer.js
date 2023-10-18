@@ -13,6 +13,10 @@ function Footer() {
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year}</h3>
         </Col>
+
+        <Col md="4" className="footer-copywright">
+          <h3>Sevastopolska 13 Smila, Ukraine 20700</h3>
+        </Col>
       </Row>
     </Container>
   );
