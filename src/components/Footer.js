@@ -15,7 +15,7 @@ function Footer() {
         </Col>
 
         <Col md="4" className="footer-copywright">
-          <h3>Kralja Vladislava 136, Belgrade, Serbia, 11273</h3>
+          <h3>12 Victoria Street, Auckland, New Zealand, 1061</h3>
         </Col>
       </Row>
     </Container>
