@@ -63,7 +63,7 @@ function Home2() {
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
-            <p>glee07838@gmail.com</p>
+            <p>thomasinagilbert78@gmail.com</p>
           </Col>
         </Row>
       </Container>
